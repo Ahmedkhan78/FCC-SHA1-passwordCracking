@@ -1,4 +1,3 @@
-````md
 # SHA-1 Password Cracker 🔐
 
 This project is part of the freeCodeCamp Information Security Certification.
@@ -27,7 +26,6 @@ You must implement:
 ```python
 crack_sha1_hash(hash, use_salts=False)
 ```
-````
 
 ### Parameters:
 
